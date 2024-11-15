@@ -94,7 +94,7 @@ fun playAudio(context: Context) {
                         )
 
                     Text(
-                        text = "GaurGopalDas Returns To TRS - Life, Monkhood & Spirituality",
+                        text = "Take it Easy with RJ Balaji",
                         textAlign = TextAlign.Center,
                         modifier = Modifier.padding(start = 20.dp, end = 20.dp)
                     )
@@ -146,7 +146,7 @@ fun playAudio(context: Context) {
                     )
 
                     Text(
-                        text = "Haunted Houses, Evil Spirits & The Paranormal Explained | Sarbajeet Mohanty",
+                        text =  "Motivational Quote: Push Yourself",
                         textAlign = TextAlign.Center,
                         modifier = Modifier.padding(start = 20.dp, end = 20.dp)
                     )
@@ -200,7 +200,7 @@ fun playAudio(context: Context) {
                     )
 
                     Text(
-                        text = "Kaali Mata ki kahani - Black Magic & Aghoris ft. Dr Vineet Aggarwal",
+                        text = "Morning Inspiration: Start Your Day Right",
                         textAlign = TextAlign.Center,
                         modifier = Modifier.padding(start = 20.dp, end = 20.dp)
                     )
@@ -253,7 +253,7 @@ fun playAudio(context: Context) {
                         )
 
                     Text(
-                        text = "Tantra Explained Simply | Rajarshi Nandy - Mata, Bhairav & Kamakhya Devi",
+                        text =  "Daily Reminder: Embrace Change",
                         textAlign = TextAlign.Center,
                         modifier = Modifier.padding(start = 20.dp, end = 20.dp)
                     )
@@ -305,7 +305,7 @@ fun playAudio(context: Context) {
                         )
 
                     Text(
-                        text = "Complete Story Of Shri Krishna - Explained In 20 Minutes",
+                        text = "Success and Sacrifice",
                         textAlign = TextAlign.Center,
                         modifier = Modifier.padding(start = 20.dp, end = 20.dp)
                     )
@@ -357,7 +357,7 @@ fun playAudio(context: Context) {
                         )
 
                     Text(
-                        text = "Mahabharat Ki Poori Kahaani - Arjun, Shri Krishna & Yuddh - Ami Ganatra ",
+                        text = "RJ Balaji's Cross-Talk on 92.7 Big FM",
                         textAlign = TextAlign.Center,
                         modifier = Modifier.padding(start = 20.dp, end = 20.dp)
                     )
