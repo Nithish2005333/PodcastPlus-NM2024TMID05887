@@ -9,7 +9,7 @@ User Registration and Login: New users can register an account, and existing use
 
 Custom UI Theme: The app is styled with a custom color scheme, font sizes, and elevation effects for a clean, modern look.
 
-
+ 
 Usage
 
 1. Run the App: Build and run the app in Android Studio.
