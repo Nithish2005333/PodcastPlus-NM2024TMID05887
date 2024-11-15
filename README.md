@@ -16,3 +16,4 @@ Usage
 
 3. Login: After registering, users can log in with their credentials to access the main content.
 4. Browse Episodes: Once logged in, users can scroll through the list of podcast episodes.
+5. Play Audio: Tap the play button to start playback and the pause button to stop.
