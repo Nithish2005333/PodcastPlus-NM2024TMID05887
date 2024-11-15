@@ -13,3 +13,5 @@ Usage
 
 
 2. Register: New users need to register with a username, email, and password.
+
+3. Login: After registering, users can log in with their credentials to access the main content.
