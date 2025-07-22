@@ -1,23 +1,47 @@
-Features
+# 🎧 Podcast Streaming App
 
+A simple and modern podcast streaming mobile application built with Java and Android Studio.  
+Users can register, log in, and listen to various podcast episodes using an interactive and clean UI.
 
-Browse Episodes: Users can view a list of podcast episodes, each represented with an image thumbnail, title, and audio playback controls.
+---
 
-Audio Playback: Play and pause buttons allow users to control the audio playback of each episode.
+## 🚀 Features
 
-User Registration and Login: New users can register an account, and existing users can log in to access the main content.
+- **Browse Episodes**: View a list of podcast episodes with image thumbnails, titles, and playback controls.  
+- **Audio Playback**: Play and pause functionality for each episode.  
+- **User Registration & Login**: Secure user authentication system for accessing content.  
+- **Custom UI Theme**: Styled with a unique color scheme, font sizing, and elevation for a polished look.  
+- **Responsive Layout**: Works smoothly on various Android screen sizes.  
 
-Custom UI Theme: The app is styled with a custom color scheme, font sizes, and elevation effects for a clean, modern look.
+---
 
- 
-Usage
+## 📱 Usage
 
-1. Run the App: Build and run the app in Android Studio.
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-username/podcast-app.git
+   ```
 
-2. Register: New users need to register with a username, email, and password.
+2. **Open in Android Studio**  
+   Open the project in Android Studio and let it sync.
 
-3. Login: After registering, users can log in with their credentials to access the main content.
- 
-4. Browse Episodes: Once logged in, users can scroll through the list of podcast episodes.
- 
-5. Play Audio: Tap the play button to start playback and the pause button to stop.
+3. **Run the App**  
+   Build and run the app on an emulator or physical device.
+
+4. **Register**  
+   Sign up with a username, email, and password.
+
+5. **Login**  
+   Log in to access and browse podcast episodes.
+
+6. **Play Audio**  
+   Tap the play button to start listening, and pause to stop playback.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language**: Java  
+- **Platform**: Android Studio  
+- **Database**: Firebase Authentication (or local simulation)  
+- **UI**: Material Design, Custom Styling
